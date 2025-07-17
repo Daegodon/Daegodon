@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Daegodon/osTicket---Post-Install-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Daegodon/OsTicket-Ticket-Lifecycle-examples)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs][(https://github.com/daegodon/configure-ad)](https://github.com/Daegodon/Preparing-on-premises-active-directory-with-vms)
+  - [Configuring On-premises Active Directory within Azure VMs][(https://github.com/daegodon/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/daegodon/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
